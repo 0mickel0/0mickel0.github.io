@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8827848d.chunk.css",
-    "main.js": "/static/js/main.fb23ba53.chunk.js",
-    "main.js.map": "/static/js/main.fb23ba53.chunk.js.map",
+    "main.js": "/static/js/main.62f12199.chunk.js",
+    "main.js.map": "/static/js/main.62f12199.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.84197ddf.js",
     "runtime-main.js.map": "/static/js/runtime-main.84197ddf.js.map",
     "static/js/2.fb537069.chunk.js": "/static/js/2.fb537069.chunk.js",
@@ -20,12 +20,18 @@
     "static/media/Image008.b17dea6a.png": "/static/media/Image008.b17dea6a.png",
     "static/media/Image009.da7253ce.png": "/static/media/Image009.da7253ce.png",
     "static/media/Image010.e7b34a49.png": "/static/media/Image010.e7b34a49.png",
-    "static/media/index.css": "/static/media/paper.b18a6e5e.png"
+    "static/media/computerWork.mp3": "/static/media/computerWork.43f6db6b.mp3",
+    "static/media/omg.mp3": "/static/media/omg.f3d9b675.mp3",
+    "static/media/index.css": "/static/media/paper.b18a6e5e.png",
+    "static/media/scroll.mp3": "/static/media/scroll.95cd1105.mp3",
+    "static/media/typing.mp3": "/static/media/typing.d91e7a6f.mp3",
+    "static/media/veryNice.mp3": "/static/media/veryNice.d0d421d5.mp3",
+    "static/media/wow.mp3": "/static/media/wow.86cb7e94.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.84197ddf.js",
     "static/js/2.fb537069.chunk.js",
     "static/css/main.8827848d.chunk.css",
-    "static/js/main.fb23ba53.chunk.js"
+    "static/js/main.62f12199.chunk.js"
   ]
 }
